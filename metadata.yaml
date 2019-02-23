@@ -1,5 +1,8 @@
 _repo: Witchcraft-Second-Sight-in-the-Highlands-Islands-of-Scotland-Tales-and-Traditions-Collected-E__58894
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58894-h/images/cover.jpg
 creator:
   author:
     agent_name: Campbell, John Gregorson
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '50200'
     url: http://www.gutenberg.org/2009/agents/50200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58894#Witchcraft-Second-Sight-in-the-Highlands-Islands-of-Scotland-Tales-and-Traditions-Collected-E_
 gutenberg_issued: '2019-02-15'
 gutenberg_type: Text
 identifiers:
